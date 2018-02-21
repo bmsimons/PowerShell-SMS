@@ -72,3 +72,10 @@ Send-SMS -To +3161234123412 -From +3161234123411 -Message "Hello, Nexmo!" -Provi
 ```powershell
 Send-SMS -To +3161234123412 -From +3161234123411 -Message "Hello, SMSAPI!" -Provider SMSAPI
 ```
+
+---------------------------------------------------------------------------
+
+### PowerShell-SMS in action:
+
+![Nexmo Send SMS](https://bartsimons.me/content/images/2018/02/nexmo-send-sms.png)
+![Nexmo Receive SMS](https://bartsimons.me/content/images/2018/02/sms-received.jpg)

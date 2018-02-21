@@ -31,6 +31,8 @@ If ([Environment]::OSVersion.Platform -eq "Unix") {
 Just copy-paste the above code in your PowerShell interpreter and you should be good to go!
 (Please note that the automatic installer is only confirmed to work in the open-source version of PowerShell)
 
+---------------------------------------------------------------------------
+
 ### Configure PowerShell-SMS for use with Twilio
 ```powershell
 Import-Module PowerShell-SMS
